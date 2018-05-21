@@ -1,6 +1,6 @@
-# Your diary
+# Nebulas Keeper
 
-Your personal diary.
+The application allows you to store user data in encrypted form, whether passwords or just some information.
 
 ### Smart contract
 
